@@ -1,0 +1,7 @@
+﻿instrumentation-sets:
+  - name: mongodb26
+    xml-file: C:\dev\github\newrelic-dotnet-agent\src\Agent\newrelichome_x64\extensions\NewRelic.Providers.Wrapper.MongoDb26.Instrumentation.xml
+    nuget-assemblies:
+    local-assemblies:
+      - C:\lame\idiot\mongodb.driver.2.11.6\lib\net452\MongoDB.Driver.dll
+      - C:\lame\idiot\mongodb.driver.core.2.11.6\lib\net452\MongoDB.Driver.Core.dll

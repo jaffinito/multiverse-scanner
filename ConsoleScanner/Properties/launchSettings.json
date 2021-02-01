@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleScanner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\dev\\other\\MultiverseScanner\\ConsoleScanner\\bin\\Debug\\netcoreapp3.1\\config.yml\""
+    }
+  }
+}
